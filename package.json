@@ -26,7 +26,7 @@
 		"@electron/remote": "^2.1.2",
 		"@sindresorhus/do-not-disturb": "^1.1.0",
 		"electron-better-ipc": "^2.0.1",
-		"electron-context-menu": "^3.6.1",
+		"electron-context-menu": "^4.1.1",
 		"electron-debug": "^3.2.0",
 		"electron-dl": "^3.5.2",
 		"electron-localshortcut": "^3.2.1",
